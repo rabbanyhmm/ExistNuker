@@ -26,7 +26,7 @@ class Interface:
     def __init__(self):
         self.console = console
         self.title = "ExistNuker"
-        self.version = "https://github.com/myexistences/ExistNuker"
+        self.version = "https://github.com/rabbanyhmm/ExistNuker"
         self.set_fixed_size()
 
     def set_fixed_size(self):

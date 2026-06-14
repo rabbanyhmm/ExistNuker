@@ -241,5 +241,5 @@ LOGO = r"""
  / /____>  < / (__  ) /_/ /|  / /_/ / ,< /  __/ /     
 /_____/_/|_|/_/____/\__/_/ |_/\__,_/_/|_|\___/_/      
 
-    ExistNuker - https://github.com/myexistences/ExistNuker
+    ExistNuker - https://github.com/rabbanyhmm/ExistNuker
 """

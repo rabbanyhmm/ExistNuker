@@ -60,7 +60,7 @@ ExistNuker is a **Discord server destruction tool** that uses a bot token to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/myexistences/ExistNuker.git
+git clone https://github.com/rabbanyhmm/ExistNuker.git
 cd ExistNuker
 
 # Install dependencies
@@ -120,6 +120,6 @@ Press `Ctrl+C` at any time to stop all running operations.
 
 <div align="center">
 
-*Created by [Exist](https://github.com/myexistences)*
+*Created by [Exist](https://github.com/rabbanyhmm)*
 
 </div>
